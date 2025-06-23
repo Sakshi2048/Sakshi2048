@@ -53,21 +53,7 @@
 
 ---
 
-## 🏆 Achievements
 
-- 🥈 1st Runner-Up - **Web & App Hackathon** by ACM Student Chapter  
-- 🧠 **NTSE Scholar** – Top percentile among 100,000+ nationwide applicants  
-- 👩🏻‍🏫 Delivered a C++ session to over 150 first-year students  
-
----
-
-## 🌱 Open Source & Leadership
-
-- 👩‍💼 Treasurer – **PICT CSI Club**
-- 💻 Contributor – **GirlScript Summer of Code (GSSOC)**
-- 🎤 Coordinator – **XENIA'25**, 2000+ registrations
-
----
 
 ## 📊 GitHub Stats
 
