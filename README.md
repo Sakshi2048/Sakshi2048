@@ -8,10 +8,9 @@
 ---
 
 ## 💫 About Me
-
-🏫 Currently pursuing my **B.E. in Computer Engineering** from **PICT, Pune**  
-💻 I'm a **Full Stack Developer** working across frontend and backend technologies  
-🚀 Passionate about building scalable, user-centric web applications  
+SDE @UPTIQ  
+🏫 B.E (Comp.)- PICT,Pune  
+💻 I'm a **Full Stack Developer** 
 📧 Reach out: **sakshimarbhal248@gmail.com**
 
 ---
@@ -21,7 +20,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-red-zeta-10.vercel.app)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshim2048) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshi2048)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sakshi_20.48)
 
 ---
 
